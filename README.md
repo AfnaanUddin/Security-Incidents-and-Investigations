@@ -1,3 +1,3 @@
 # Security-Incidents-and-Investigations
 
-This Repository will contain the Incidents which I have investigated and resolved.
+This repository contains Security incident response scenarios I have analyzed, including investigations, findings, and resolutions.
