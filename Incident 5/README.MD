@@ -28,7 +28,7 @@ Investigation included review of the CrowdStrike detection, process tree analysi
 |-----------|-----------|
 | **File Name** | Colorpicker.exe |
 | **SHA256 Hash** | db57190885e40f6b9951d0f5c43e1553ffc35629c054fc294803e3a83e024f70 |
-| **Execution Path** | `\Device\HarddiskVolume3\Users\WilsonBre\AppData\Local\Temp\33UMzqwpzGDGKjGd2ywGmAsrH08\Colorpicker.exe` |
+| **Execution Path** | `\Device\HarddiskVolume3\Users\*******\AppData\Local\Temp\33UMzqwpzGDGKjGd2ywGmAsrH08\Colorpicker.exe` |
 
 ---
 
