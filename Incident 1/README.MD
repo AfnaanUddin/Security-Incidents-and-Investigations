@@ -1,6 +1,6 @@
 #Incident Title: Potentially Unwanted Program / Adware Detection
 
-Severity: Low
+##Severity: Low
 Alert Source: CrowdStrike
 Affected Asset: Server
 Detection Type: Adware / PUP
