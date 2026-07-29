@@ -1,9 +1,5 @@
 # 🚨 Incident Report: Potentially Unwanted Program (PUP) / Adware Detection
 
-![Severity](https://imgbadge/Severity-Low-green
-![Status](https://img.shields.io/badge/Status-Closed[Source](https://img.shields.io/be-CrowdStrike-blue
-![Asset](https://img.shields.io/badge/Asset-ange
-
 ## Executive Summary
 
 On **June 1 at 08:55 AM**, CrowdStrike generated a security alert indicating that a file had been written to a server's file system. The file was identified as a **Potentially Unwanted Program (PUP) / Adware** based on its SHA256 hash reputation.
