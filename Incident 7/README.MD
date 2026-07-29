@@ -139,10 +139,6 @@ In accordance with organizational policy, the application was blocked and/or qua
 
 > **Closed – True Positive (Unauthorized Software Detected and Blocked)**
 
-### Summary
-
-CrowdStrike Falcon generated a Custom IOA alert after detecting the installation and execution of **Discord.exe** on a Windows endpoint. Investigation confirmed that the software was installed through a legitimate process using **winget** and executed with normal first-run parameters. Reputation analysis did not identify the file as malicious, and no evidence of compromise or suspicious activity was observed. However, the application violated organizational policy and was correctly detected by the custom security control. The software was blocked in accordance with policy, and the incident was closed as a **True Positive**.
-
 ### Conclusion
 
 The detection successfully identified an unauthorized application that violated organizational software policy. Although Discord itself was determined to be legitimate and non-malicious, its execution represented a policy compliance issue requiring enforcement action. Security controls functioned as intended, the application was blocked, and no further risk to the environment was identified. The incident was therefore classified as a **True Positive** and closed.
