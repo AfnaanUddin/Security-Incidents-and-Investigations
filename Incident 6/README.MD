@@ -127,6 +127,4 @@ In accordance with organizational policy, the service and executable were blocke
 
 CrowdStrike Falcon generated a Custom IOA alert after detecting the execution of **rserver3.exe** on endpoint **5CG2490TM9**. Investigation determined that the executable was associated with **Radmin Server**, a legitimate remote administration application. Although no evidence of malware, endpoint compromise, privilege escalation, or unauthorized activity was identified, the software violated organizational policy prohibiting unauthorized remote access tools.
 
-The CrowdStrike custom IOA rule successfully detected and blocked the application as designed. Review of process execution, file reputation, and endpoint activity revealed no additional malicious indicators. The remote administration service was blocked in accordance with security policy, and no further remediation actions were required.
-
 Based on the investigation findings, the event was classified as a **True Positive policy violation**, successfully contained by existing security controls, and the incident was closed.
