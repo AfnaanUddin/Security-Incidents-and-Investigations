@@ -1,4 +1,4 @@
-#Incident Report: Potentially Unwanted Program (PUP) / Adware Detection
+Incident Report: Potentially Unwanted Program (PUP) / Adware Detection
 
 ## Executive Summary
 
